@@ -1,0 +1,85 @@
+#main_heading{
+    color :#A52A2A;
+    font-family: Garamond, serif;
+    font-size: larger;
+}
+
+.background{
+    background-color: rgb(255,248,220,);
+    height:100vh;
+    width:100vw
+}
+
+#navColor {
+
+        position: fixed;
+        width:100%;
+        background: rgba(173, 171, 171, 0.456)
+
+}
+
+.search{
+    background-color: rgb(173, 171, 171, 0.456);
+}
+
+
+.logop{
+    height:210px;
+    width: 220px;
+    text-align: center;
+}
+
+.logof{
+    height:140px;
+    width: 230px;
+    text-align: center;
+}
+
+.logoa{
+    height:140px;
+    width: 230px;
+    text-align: center;
+}
+
+.logopa{
+    height:110px;
+    width: 230px;
+    text-align: center;
+}
+
+.logomer{
+    height:150px ;
+    width: 220px;
+    text-align: center;
+}
+
+
+
+/*module*/
+
+.ferrari_bg{
+    background-image: url('ferrari2bg.png');
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.card{
+    text-align: center;
+    color: #A52A2A;
+}
+
+
+.image{
+    height: 300px;
+    width: 460px;
+}
+
+.main_heading2{
+    color: aliceblue;
+}
+
+.carousel{
+    width:100%;
+    margin:auto
+}
